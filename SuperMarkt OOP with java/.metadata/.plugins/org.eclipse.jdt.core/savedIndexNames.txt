@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\belgacem\Downloads\SuperMarket Project OOP with java\SuperMarkt OOP with java\.metadata\.plugins\org.eclipse.jdt.core
+2624863508.index
+3638472311.index

@@ -1,0 +1,5 @@
+package supermarketProducts;
+
+public class BeverageProduct {
+private SugarLevel SugarLevel;
+}

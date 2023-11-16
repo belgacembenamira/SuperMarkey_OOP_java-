@@ -1,0 +1,5 @@
+package supermarketProducts;
+
+public enum Fat {
+
+}

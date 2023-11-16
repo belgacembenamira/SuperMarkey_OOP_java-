@@ -1,0 +1,18 @@
+package supermarketProducts;
+
+public class Cart {
+@SuppressWarnings("unused")
+public static void main(String[] args) {
+	BeverageProduct Sprite = new BeverageProduct("Sprite", 2.5, 10, SugarLevel.LIGHT);
+	BeverageProduct Cola = new BeverageProduct("Cola", 4, 0, SugarLevel.ADDED_SUGER);
+	
+	DairyProduct Yogu =new DairyProduct("Yogu", 5.5, 15, Fat.SKIMED)  ;
+	
+	DairyProduct Juhayan =new DairyProduct("Juhayan", 4, 25, Fat.FULLCREM);
+	System.out.println(Sprite.isHealthy());
+
+	System.out.println(Sprite.toString());
+	System.out.println(Cola.isHealthy());
+
+}
+}

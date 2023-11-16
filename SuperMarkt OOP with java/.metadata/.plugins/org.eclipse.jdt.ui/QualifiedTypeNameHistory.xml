@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="supermarketProducts.GroceryProduct"/>
+    <fullyQualifiedTypeName name="supermarketProducts.Drinkble"/>
+    <fullyQualifiedTypeName name="supermarketProducts.BeverageProduct"/>
+    <fullyQualifiedTypeName name="supermarketProducts.SugarLevel"/>
+    <fullyQualifiedTypeName name="supermarketProducts.DairyProduct"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,9 @@
+package supermarketProducts;
+/*les énumérations sont utiles pour créer des
+ *  ensembles de constantes bien définis, 
+ */
+
+public enum Fat {
+	FULLCREM, HALFCRUM,SKIMED
+
+}

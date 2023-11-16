@@ -1,0 +1,9 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="supermarketProducts.Drinkble"><rhs name\="supermarketProducts.BeverageProduct"/></lhs><lhs name\="supermarketProducts.GroceryProduct"><rhs name\="supermarketProducts.BeverageProduct"/><rhs name\="supermarketProducts.DairyProduct"/></lhs><lhs name\="supermarketProducts.BeverageProduct"><rhs name\="supermarketProducts.BeverageProduct"/></lhs><lhs name\="java.lang.Enum"><rhs name\="supermarketProducts.SugarLevel"/></lhs><lhs name\="supermarketProducts.SugarLevel"><rhs name\="supermarketProducts.SugarLevel"/></lhs><lhs name\="supermarketProducts.DairyProduct"><rhs name\="supermarketProducts.DairyProduct"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=19
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

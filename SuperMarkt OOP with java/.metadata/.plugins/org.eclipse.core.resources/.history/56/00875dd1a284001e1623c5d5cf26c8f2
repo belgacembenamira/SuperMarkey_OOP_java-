@@ -1,0 +1,6 @@
+package supermarketProducts;
+
+public enum Fat {
+	FULLCREM, HALFCRUM,SKIMED
+
+}
